@@ -1,0 +1,13 @@
+ul li{
+    display: inline;
+    
+}
+nav{
+    float: left;
+}
+.aside{
+    padding: left;
+}
+.aside li{
+    display: block;
+}

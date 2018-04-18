@@ -1,0 +1,13 @@
+ul li{
+    display: inline;
+ }
+ nav {
+     float: left
+ }
+ body{
+     background-color: aqua;
+ }
+ .wrap{
+     background-color: blueviolet;
+     margin: auto;
+ }
